@@ -1,5 +1,9 @@
 # Patrones de Diseño GoF - Índice
 
+## Fundamentos
+
+*[Conceptos OO] ()
+
 ## Creacionales
 * [Singleton](https://github.com/ENC2022/dp-singleton)
 * [Factory Method](https://github.com/ENC2022/dp-factorymethod)
