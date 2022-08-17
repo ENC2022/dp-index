@@ -2,7 +2,7 @@
 
 ## Fundamentos
 
-*[Conceptos OO] ()
+* [Conceptos OO] (https://github.com/ENC2022/dp-index/blob/main/Fundamentos%20OO.pdf)
 
 ## Creacionales
 * [Singleton](https://github.com/ENC2022/dp-singleton)
